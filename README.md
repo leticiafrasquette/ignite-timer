@@ -8,3 +8,4 @@
 <li>Reducers </li>
 <li>Immer - imutabilidade</li>
 <li>Validação com React Hook Form e Zod</li>
+<li>Salvar dados no Local Storage</li>
